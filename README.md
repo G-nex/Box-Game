@@ -1,7 +1,7 @@
 Box-Game
 ========
 
-
+~~~
 --# Info
 --Created by G_nex, 2014
 
@@ -288,4 +288,4 @@ end
 function Player:touched(touch)
     -- Codea does not automatically call this method
 end
-
+~~~
